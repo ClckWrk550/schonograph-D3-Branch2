@@ -8,14 +8,11 @@ library to produce quality visualizations and interactive tools which could be u
 interfacted with OpenAI's Summarizer API, utilizing exciting new artificial intelligence technology to show what modern JS can be capable of even at the consumer level.
 
 
-<img src="home.png" width=50% height=50%>
-*Figure 1 - Home Page Node Structure*
+<img src="home.png" width=50% height=50%> *Figure 1 - Home Page Node Structure*
 
 
-<img src="article.png" width=50% height=50%>
-*Figure 2 - Post-Parse Article Node Structure*
+<img src="article.png" width=50% height=50%> *Figure 2 - Post-Parse Article Node Structure*
 
 
-<img src="node.png" width=50% height=50%>
-*Figure 3 - Example Node of Article Summary*
+<img src="node.png" width=50% height=50%> *Figure 3 - Example Node of Article Summary*
 
