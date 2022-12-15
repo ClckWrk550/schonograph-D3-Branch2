@@ -7,11 +7,12 @@ program that could webscrape and sift through academic papers, parsing them in a
 library to produce quality visualizations and interactive tools which could be used to effectively disseminated aggregated local data. Our program also directly
 interfacted with OpenAI's Summarizer API, utilizing exciting new artificial intelligence technology to show what modern JS can be capable of even at the consumer level.
 
-<figure>
+*Figure 1 - Home Page Node Structure*
 <img src="home.png" width=50% height=50%>
-<figcaption>Figure 1 - Home Page Node Structure</figcaption>
-</figure>
-<img src="article.png" width=50% height=50%>
+
 *Figure 2 - Post-Parse Article Node Structure*
-<img src="node.png" width=50% height=50%>
+<img src="article.png" width=50% height=50%>
+
 *Figure 3 - Example Node of Article Summary*
+<img src="node.png" width=50% height=50%>
+
